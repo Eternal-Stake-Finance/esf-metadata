@@ -1,0 +1,13 @@
+{
+  "name": "Eternal Stake Finance",
+  "symbol": "ESF",
+  "description": "Eternal Stake Finance | $ESF - Stake once. Earn forever. ♾️",
+  "image": "https://raw.githubusercontent.com/Eternal-Stake-Finance/esf-metadata/main/esf_logo.png",
+  "extensions": {
+    "website": "https://www.eternalstakefinance.com/",
+    "twitter": "https://x.com/EternalStakeFi",
+    "telegram": "https://t.me/EternalStakeFinance"
+  },
+  "tags": ["staking", "eternal", "finance", "yield"],
+  "decimals": 9
+}
