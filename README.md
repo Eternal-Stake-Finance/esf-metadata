@@ -3,6 +3,8 @@
 Welcome!  
 This repository contains the official brand assets and informational media kit for **Eternal Stake Finance | $ESF**.
 
+CA: **BzMWbt7ko3P8c457gzxuBCCt6q73sJyG98nQNeTfcCom**
+
 ---
 
 ## 🚀 Project Overview
